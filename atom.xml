@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circletreef.github.io/my_blog/</id>
     <title>Yizirui Fang</title>
-    <updated>2020-09-25T11:38:40.417Z</updated>
+    <updated>2020-09-25T15:36:06.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circletreef.github.io/my_blog/"/>
     <link rel="self" href="https://circletreef.github.io/my_blog/atom.xml"/>
@@ -11,6 +11,27 @@
     <logo>https://circletreef.github.io/my_blog/images/avatar.png</logo>
     <icon>https://circletreef.github.io/my_blog/favicon.ico</icon>
     <rights>All rights reserved 2020, Yizirui Fang</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.09.26 二十而冠而已]]></title>
+        <id>https://circletreef.github.io/my_blog/post/20200926-er-shi-er-li-er-yi/</id>
+        <link href="https://circletreef.github.io/my_blog/post/20200926-er-shi-er-li-er-yi/">
+        </link>
+        <updated>2020-09-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>当这篇文章进入公网的时候，正好是我的20岁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>当这篇文章进入公网的时候，正好是我的20岁。</p>
+<!-- more -->
+<p>我是方易子睿，这是我的20岁纪念博客，今年我大三。我记得18岁生日的时候，我第一次组织了一个对当时的我来说的大型活动，SCT新干事见面会，参加了一个我没怎么做事情的面试pre，SESA终面pre。进入大学这是第三年，还是挺迷茫的。选了CS作为专业，却在专业下找不到一个特定的research interest或者是interest topic。参加了美赛，拿了个不大不小的奖。参加了暑研，得到了实验数据，却不是最理想的结果，写着不知道能不能发出去的paper。嫌弃学校，想着转学，却发现自己只不过是上不起英本更上不起美本的穷孩子。想着转22，闹了个乌龙之后却发现，22没有那么美好，自己也没有资本。想着拿到UNUK交换，只需要在UK诺丁汉小乡村，刷分，实习，科研一年就能够回国，却没想到那个毁人不倦的UNUK取消交换，垂死挣扎着各种发邮件之后结果也毫无改变。想着读研去美国，硅谷做个码农，华尔街做个金融民工，做做量化交易，金融工程，还有希望能把这些年和未来的留学学费赚回来，结果中美贸易战，中美口水战，一个接着一个，中美对抗，而我却要直面这个现实。我放弃了转学，放弃了22，只为保留一个可能可以在研究生阶段去美国的可能，而这个可能却在逐渐让我迷惑。不去，沉没成本就是本科没有美本，没有英本，只是一个不太行的四非陆本；去，华人受歧视，能录取什么学校不知道，能否找到工作不知道，能否顺利工作多年不知道，国内发展是否会更好不知道。</p>
+<p>终于我也大三了，经历了太多不幸，终于我也知道了这个号称世界Top 100的大学的模样，去只想着逃离，逃开，哪怕一年就好。可事实却没有给我这个机会。</p>
+<p>申研，两个大方向，转向偏向金融，走量化金融或者金融工程；继续学CS，走AI或者程序员（码农）。第一种，转金融，不知道是否到底要转，下不定决心，不知道转了之后能否在国内拥有好的发展；继续CS，心有不甘，不知道会不会35岁淘汰，不知道会不会一直做一个底层码农，与资本，与金钱渐行渐远。</p>
+<p>写到这里也不知道要写什么了。</p>
+<p>哦对，我都大三了，想着出去旅游，不知道找谁；想喝酒，又不知道找谁；友情不多，爱情无望。大学3年，失败不过如此。</p>
+<p>希望一切都是最好的安排吧。希望未来一切安好！</p>
+<p>祝好！<br>
+2020年9月25日 夜 于PB414<br>
+<img src="https://circletreef.github.io/my_blog//post-images/1601043984406.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
         <id>https://circletreef.github.io/my_blog/post/hello-world/</id>
